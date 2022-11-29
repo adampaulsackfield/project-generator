@@ -13,3 +13,19 @@ Run using:
 `pj`
 
 Follow prompts
+
+## Templates
+
+- CSS
+- SCSS
+
+## Features
+
+- Can run NPM init when creating scaffold.
+- Can initialize a Git Repository
+
+## Coming Soon
+
+- NPM Package Install (List of common packages)
+- Testing set up
+- API Scaffold
